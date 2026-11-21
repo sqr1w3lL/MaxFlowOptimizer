@@ -1,0 +1,20 @@
+﻿  Descret4.cpp
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(26,38): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(26,38): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(26,38): error C2059: синтаксическая ошибка: )
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(26,45): error C2059: синтаксическая ошибка: )
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(28,5): error C2059: синтаксическая ошибка: while
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(28,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(28,24): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(43,5): error C2059: синтаксическая ошибка: return
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(44,1): error C2059: синтаксическая ошибка: }
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(44,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(47,31): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(47,31): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(89,50): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(89,50): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(89,50): error C2059: синтаксическая ошибка: )
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(145,13): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(150,13): warning C4566: символ, представленный универсальным именем символа "\U0001F535", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(153,25): error C3861: edmondsKarp: идентификатор не найден
+C:\Users\maksi\OneDrive\Рабочий стол\ДЗ\OOP\Descret4\Descret4\Descret4.cpp(154,13): warning C4566: символ, представленный универсальным именем символа "\U0001F7E2", невозможно представить в текущей кодовой странице (1251)
